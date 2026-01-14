@@ -12,7 +12,7 @@ Don't get me wrong, photos are great for remembering what someone or something l
 
 If you want to capture your personal experience of someone you love, make candid audio recording with your phone.
 
-I don’t know if it’s my proclivity for audio or what, but I had an intuition to start making random recordings of conversations with my grandma a couple of years before she passed away. Nothing formal, just her rambling about growing up, WW2 experiences, or even just her making random comments. I’d just set my phone on the table and let it run for twenty minutes.
+🔈 I don’t know if it’s my proclivity for audio or what, but I had an intuition to start making random recordings of conversations with my grandma a couple of years before she passed away. Nothing formal, just her rambling about growing up, WW2 experiences, or even just her making random comments. I’d just set my phone on the table and let it run for twenty minutes.
 
 Now that she’s gone, I have many photos of her. But the things I treasure most are those crappy little `.ogg` files.
 
@@ -22,7 +22,7 @@ Audio is infinitely more intimate than video or photography. It forces you to fo
 
 So, start building an audio album. It doesn't have to be high production value; phone microphones are amazingly good these days. Next time you’re sitting around with your parents, record a few minutes of the banter. Ask an older relative to tell you a story you’ve heard a dozens times and get it on tape. You can thank me later.
 
-## A necessary warning for the modern era:
+## A necessary warning
 
 Treat these recordings like sensitive documents. The technology for AI voice cloning and deep fakes is accelerating at a terrifying pace. It already only takes a minute or two of clear audio to create a passable clone of someone's voice. For obvious reasons, you do not want your loved one’s voice data floating around in easily accessible cloud storage or public social media platforms where it could eventually be scraped and weaponized for scams.
 
